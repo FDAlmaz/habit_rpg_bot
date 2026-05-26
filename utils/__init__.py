@@ -1,0 +1,1 @@
+from .image_generator import gen_card as generate_profile_card
