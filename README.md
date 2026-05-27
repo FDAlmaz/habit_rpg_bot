@@ -33,7 +33,7 @@ cd habit_rpg_bot
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-echo "BOT_TOKEN=ваш_токен_от_BotFather" > .env
+echo "BOT_TOKEN=8387714208:AAEKRQsH8RvPqMr74mEw8PkTnnL45wwwdI0" > .env
 python main.py
 
 Для Windows вместо `source venv/bin/activate` используйте `venv\Scripts\activate`.
